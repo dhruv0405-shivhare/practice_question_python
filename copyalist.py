@@ -12,6 +12,6 @@ print(mylist1)
 # using extend() method
 
 mylist2=[5,6,9,32,6,4]
-mylist_copy2=[]
+mylist_copy2=[10,20,30]
 mylist_copy2.extend(mylist2)
 print(mylist_copy2)
